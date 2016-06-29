@@ -1,0 +1,48 @@
+body{
+     font-family: Helvetica , "游ゴシック" , "Yu Gothic" , sans-serif;
+}
+
+table{
+  text-align: center;
+}
+
+.mdl-data-table__cell--non-numeric.mdl-data-table__cell--non-numeric {
+     text-align: center;
+  }
+
+.mdl-data-table__cell--non-numeri{
+    text-align: center;
+}
+
+th{
+  text-align: center;
+}
+
+nav{
+  margin-left: 32%;
+  margin-right: 10%;
+}
+
+nav ul a{
+  width: 45px;
+  text-align: center;
+}
+
+.aaa{
+  text-align: center;
+  font-size: 20px;
+}
+
+.aaa label{
+  display:inline;
+
+}
+
+.btn btn-default btn-xs mdl-button mdl-js-button mdl-button--raised{
+  display: inline;
+  text-align: center;
+}
+
+.mdl-textfield__input{
+  font-size: 22px;
+}
