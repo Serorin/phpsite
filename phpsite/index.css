@@ -46,3 +46,8 @@ nav ul a{
 .mdl-textfield__input{
   font-size: 22px;
 }
+
+.mdl-button mdl-js-button mdl-button--fab mdl-button--colore{
+  display: inline-block;
+  float:right;
+}

@@ -63,11 +63,14 @@ $count = 6;
 
 <h2>TO DO LIST</h2>
 
+
     <form action="./sen.php" method="POST">
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" name="label" type="text" id="sample3"placeholder="英語でどうぞ">
         <label class="mdl-textfield__label" for="sample3"></label>
       </div>
+      <form action='sen.php'class='bbb'><input type='submit' <a class='mdl-button mdl-js-button mdl-button--fab mdl-button--colored' value='+'></form>
+
     </form>
 
   <table class="table table-bordered mdl-shadow--2dp">
